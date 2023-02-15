@@ -1,5 +1,11 @@
 # Site-Museu-projeto7-HTML5-CSS3-Recursos-especiais
 
+<hr>
+<p align="center">
+ <img width="900px" src="https://user-images.githubusercontent.com/103331086/219087953-ff229a5b-5470-486e-b6cc-95166f865ff9.png" />
+</p>
+
+
 📚 Sobre
 Museu Nacional é um site fictício do famoso Museu criado no Curso De Desenvolvimento Web Completo na Udemy
 
